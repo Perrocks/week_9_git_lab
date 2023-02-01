@@ -1,3 +1,3 @@
-console.log(
-    "yeet"
-)
+const helloWorld = () => {
+    return "Hello World!";
+  }
